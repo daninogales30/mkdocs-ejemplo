@@ -1,0 +1,9 @@
+site_name: My Web - Dani
+
+nav: 
+  - Pppal: index.md
+  - LMSGI: lmsgi.md
+  - Proyecto: public/proyecto.md
+  - Juan: juan.md
+theme:
+    name: dracula
